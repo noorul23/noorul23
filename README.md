@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in Information Technology   
-- 🤖 Interested in **IoT, embedded systems, sensing systems, robotics, AI/ML**  
-- 🔍 Research experience in **computer vision, plant disease classification, intrusion detection systems**  
-- 🛠️ Founder of a device repair venture (**I Repair Hub**)  
+- 🤖 Interested in **IoT, embedded systems, robotics, AI/ML**  
+- 🔍 Research experience in **plant disease diagnosis**  
+- 🛠️ Founder of a device repair venture  
 - 🌱 Currently improving: Getting into electronics 
 - 📍 Based in Chennai, India  
 
@@ -23,12 +23,12 @@
 ### **IoT & Embedded Systems**
 - ESP32 / NodeMCU / Arduino  
 - GSM/GPS modules (SIM800L, NEO-6M)  
-- Hardware prototyping, PCB basics, Fritzing/KiCad  
+- Hardware prototyping, PCB basics  
 - Sensor integration & real-time data acquisition  
 
 ### **AI / ML**
 - PyTorch, TensorFlow  
-- Computer Vision (CNNs, ViT, U-Net)  
+- Computer Vision (CNNs, U-Net) & Transformers (ViT)  
 - Research-oriented ML workflows  
 - Model evaluation, dataset preparation    
 
